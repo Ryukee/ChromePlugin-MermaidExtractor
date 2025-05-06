@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Mermaid 图表提取器",
+    "version": "1.0",
+    "description": "在网页中搜索并提取 Mermaid 图表代码",
+    "permissions": ["contextMenus", "clipboardWrite", "activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": "icon.png",
+      "default_title": "Mermaid 图表提取器"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
