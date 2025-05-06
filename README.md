@@ -1,6 +1,8 @@
 ## Add to Chrome
 open chrome://extensions/
+
 click "load unpacked extension"
+
 ![image](https://github.com/user-attachments/assets/41257e46-0056-412d-a326-b996ed9d817d)
 
 
