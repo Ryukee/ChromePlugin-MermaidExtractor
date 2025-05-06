@@ -1,5 +1,5 @@
 ## Add to Chrome
-open ([chrome extensions](chrome://extensions/))
+open [chrome extensions](chrome://extensions/)
 
 click "load unpacked extension"
 
